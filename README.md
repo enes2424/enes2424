@@ -1,7 +1,7 @@
 # <p align="center">👨‍💻 Enes Mahmut Ateş | Bilgisayar Mühendisi</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=200&section=header&text=Enes%20Mahmut%20Ateş&fontSize=70&fontColor=58a6ff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render" />
 </p>
 
 ### 🎓 Hakkımda
