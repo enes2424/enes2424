@@ -5,9 +5,9 @@
 </p>
 
 ### 🎓 Hakkımda
-- 🎓 **Yeditepe Üniversitesi** | [cite_start]Bilgisayar Mühendisliği Mezunu (**%100 Burslu - YKS 5802.**) [cite: 3, 4, 5]
+- 🎓 **Yeditepe Üniversitesi** | Bilgisayar Mühendisliği Mezunu (%100 Burslu - YKS 5802.) [cite: 3, 4, 5]
 - 🚀 **42 Kocaeli** | [cite_start]Yazılım Okulu (Sistem Programlama & Algoritma Süreci) [cite: 6, 7]
-- [cite_start]🛠️ C/C++ ile sistem seviyesinden Flutter ile mobil uygulama katmanına kadar uçtan uca çözümler geliştiriyorum[cite: 57, 58, 68].
+- [cite_start]🛠️ C/C++ ile sistem seviyesinden Flutter ile mobil uygulama katmanına kadar uçtan uca çözümler geliştiriyorum. [cite: 57, 58, 68]
 
 ---
 
@@ -25,26 +25,26 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enes2424&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Enes's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes2424&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide=html,css" alt="Enes's Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enes2424&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&cache_seconds=1800" alt="Enes's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes2424&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide=html,css&cache_seconds=1800" alt="Enes's Top Langs" height="180" />
 </p>
 
 ---
 
 ### 📂 Öne Çıkan Mühendislik Projeleri
-- [cite_start]🌐 **Irc:** C++ ile geliştirilmiş, RFC standartlarına uygun Internet Relay Chat sunucusu[cite: 31].
-- [cite_start]🎮 **Cub3D:** Raycasting yöntemiyle C ve minilibx kullanılarak geliştirilen 3D oyun projesi[cite: 27, 28].
-- [cite_start]🍝 **Philosophers:** Thread ve mutex yapısı ile eşzamanlılık (concurrency) yönetimi sağlayan sistem projesi[cite: 24, 25].
-- [cite_start]📱 **Kuyumculuk App:** Flutter & Firebase tabanlı, OCR ve QR destekli kapsamlı iş yönetim sistemi[cite: 42, 43, 44].
-- [cite_start]🍽️ **Bakar Mısınız:** Flutter ve Node.js ile geliştirilen restoran sipariş uygulaması[cite: 39].
-- [cite_start]⚡ **Minishell:** Multiprocessing ve pipe yapılarının yoğun kullanıldığı Unix shell simülasyonu[cite: 26].
-- [cite_start]🏥 **Docwatch:** Flutter ve Django altyapılı sağlık yönetim platformu[cite: 40, 41].
-- [cite_start]🧩 **Strategic Board Game:** Minimax algoritması ile geliştirilen AI tabanlı strateji oyunu[cite: 38].
+- [cite_start]🌐 **Irc:** C++ ile geliştirilmiş, RFC standartlarına uygun Internet Relay Chat sunucusu. [cite: 31]
+- [cite_start]🎮 **Cub3D:** Raycasting yöntemiyle C ve minilibx kullanılarak geliştirilen 3D oyun projesi. [cite: 27, 28]
+- [cite_start]🍝 **Philosophers:** Thread ve mutex yapısı ile eşzamanlılık (concurrency) yönetimi sağlayan sistem projesi. [cite: 24, 25]
+- [cite_start]📱 **Kuyumculuk App:** Flutter & Firebase tabanlı, OCR ve QR destekli kapsamlı iş yönetim sistemi. [cite: 42, 43, 44]
+- [cite_start]🍽️ **Bakar Mısınız:** Flutter ve Node.js ile geliştirilen restoran sipariş uygulaması. [cite: 39]
+- [cite_start]⚡ **Minishell:** Multiprocessing ve pipe yapılarının yoğun kullanıldığı Unix shell simülasyonu. [cite: 26]
+- [cite_start]🏥 **Docwatch:** Flutter ve Django altyapılı sağlık yönetim platformu. [cite: 40, 41]
+- [cite_start]🧩 **Strategic Board Game:** Minimax algoritması ile geliştirilen AI tabanlı strateji oyunu. [cite: 38]
 
 ---
 
 <p align="center">
   <a href="https://enes2424.github.io">
-    <img src="https://img.shields.io/badge/Kişisel_Portfolyo_Sitemi_Gör-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/KİŞİSEL_PORTFOLYO_SİTEMİ_GÖR-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
