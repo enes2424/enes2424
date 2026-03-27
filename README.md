@@ -21,23 +21,26 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enes2424&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true" height="150" alt="Enes's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes2424&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true&hide=html,css" height="150" alt="Top Langs" />
-</p>
+### 📂 Öne Çıkan Mühendislik Projeleri
+
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| 🌐 **Irc** | RFC standartlarına uygun IRC Sunucusu | C++ / Network |
+| 🎮 **Cub3D** | Raycasting tabanlı 3D Oyun Motoru | C / OpenGL / MLX |
+| 🍝 **Philosophers** | Eşzamanlılık & Thread Yönetimi | C / Threads / Mutex |
+| 📱 **Kuyumculuk** | OCR & QR Destekli İş Yönetimi | Flutter / Firebase |
+| 🍽️ **Bakar Mısınız** | Dijital Sipariş & Garson Çağırma | Flutter / Node.js |
+| ⚡ **Minishell** | Unix Shell Simülasyonu | C / OS Fundamentals |
+| 🏥 **Docwatch** | Sağlık Takip & Yönetim Platformu | Flutter / Django |
 
 ---
 
-### 📂 Öne Çıkan Mühendislik Projeleri
-- 🌐 **Irc:** C++ ile geliştirilmiş, RFC standartlarına uygun Internet Relay Chat sunucusu.
-- 🎮 **Cub3D:** Raycasting yöntemiyle C ve minilibx kullanılarak geliştirilen 3D oyun projesi.
-- 🍝 **Philosophers:** Thread ve mutex yapısı ile eşzamanlılık (concurrency) yönetimi sağlayan sistem projesi.
-- 📱 **Kuyumculuk App:** Flutter & Firebase tabanlı, OCR ve QR destekli kapsamlı iş yönetim sistemi.
-- 🍽️ **Bakar Mısınız:** Flutter ve Node.js ile geliştirilen restoran sipariş uygulaması.
-- ⚡ **Minishell:** Multiprocessing ve pipe yapılarının yoğun kullanıldığı Unix shell simülasyonu.
-- 🏥 **Docwatch:** Flutter ve Django altyapılı sağlık yönetim platformu.
-- 🧩 **Strategic Board Game:** Minimax algoritması ile geliştirilen AI tabanlı strateji oyunu.
+### 📈 GitHub Durumu
+<p align="left">
+  <img src="https://img.shields.io/github/followers/enes2424?label=Takipçi&style=flat-square&color=58a6ff" />
+  <img src="https://img.shields.io/github/stars/enes2424?label=Toplam%20Yıldız&style=flat-square&color=58a6ff" />
+  <img src="https://img.shields.io/github/repo-count/enes2424?label=Repo%20Sayısı&style=flat-square&color=58a6ff" />
+</p>
 
 ---
 
