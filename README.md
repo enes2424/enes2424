@@ -1,7 +1,7 @@
 # <p align="center">👨‍💻 Enes Mahmut Ateş | Bilgisayar Mühendisi</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Enes+Mahmut+Ateş;Bilgisayar+Mühendisi;Yeditepe+Mezunu;42+Kocaeli+Öğrencisi" alt="Typing SVG" />
 </p>
 
 ### 🎓 Hakkımda
