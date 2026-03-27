@@ -35,15 +35,6 @@
 
 ---
 
-### 📈 GitHub Durumu
-<p align="left">
-  <img src="https://img.shields.io/github/followers/enes2424?label=Takipçi&style=flat-square&color=58a6ff" />
-  <img src="https://img.shields.io/github/stars/enes2424?label=Toplam%20Yıldız&style=flat-square&color=58a6ff" />
-  <img src="https://img.shields.io/github/repo-count/enes2424?label=Repo%20Sayısı&style=flat-square&color=58a6ff" />
-</p>
-
----
-
 <p align="center">
   <a href="https://enes2424.github.io">
     <img src="https://img.shields.io/badge/KİŞİSEL_PORTFOLYO_SİTEMİ_GÖR-000?style=for-the-badge&logo=github&logoColor=white" />
